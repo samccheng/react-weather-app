@@ -2,3 +2,41 @@
   text-align: center;
   margin-top: 100px;
 }
+
+.search {
+  margin-top: 100px;
+}
+
+input {
+  border: none;
+  padding: 5px;
+  font-size: 2rem;
+  opacity: .8;
+  font-weight: 200;
+  font-style: italic;
+}
+
+
+
+.temp {
+  height: 300px;
+  font-size: 4rem;
+  font-weight: 300;
+}
+
+.number {
+  font-size: 12rem;
+  font-weight: light;
+  margin-top: 20px;
+}
+
+button {
+  border: none;
+  padding: 5px 12px;
+  background: slateGrey;
+  font-size: 2rem;
+  border-radius: 0;
+  opacity: .9;
+  color: white;
+  font-weight: 200;
+}
